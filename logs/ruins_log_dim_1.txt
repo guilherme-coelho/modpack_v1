@@ -1,0 +1,9 @@
+
+Loading options from: C:\Users\Guilherme\Desktop\MultiMC\instances\modpack_sem_CC\.minecraft\saves\world\DIM1
+tries_per_chunk_normal = 6
+chance_to_spawn_normal = 10.0
+templateInstancesMinDistance = 256.0
+anyRuinsMinDistance = 64.0
+anySpawnMinDistance = 32
+anySpawnMaxDistance = 2147483647
+Ruins mod loaded successfully for world C:\Users\Guilherme\Desktop\MultiMC\instances\modpack_sem_CC\.minecraft\saves\world\DIM1, template files: 34

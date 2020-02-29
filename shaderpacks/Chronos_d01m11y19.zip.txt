@@ -1,0 +1,3 @@
+#Sun Feb 09 07:32:15 BRST 2020
+LAMBERT_DIFFUSE=true
+TIR=true

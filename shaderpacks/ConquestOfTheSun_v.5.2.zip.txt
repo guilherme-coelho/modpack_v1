@@ -1,0 +1,8 @@
+#Fri Feb 28 18:52:16 BRT 2020
+DISTANT_BLUR=true
+GODRAYS=true
+HEXAGONAL_BOKEH=false
+shadowDistance=192.0
+VL_BLUR=1.0
+VL_QUALITY=6.0
+WorldTimeAnimation=true

@@ -1,0 +1,7 @@
+#Sat Feb 01 12:03:07 BRST 2020
+BlackOutline=true
+Bloom=false
+CloudQuality=8
+MotionBlur=true
+shadowDistance=512.0
+shadowMapResolution=3072
